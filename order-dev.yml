@@ -15,3 +15,5 @@ management:
     context-path: /
 env:
   dev
+label:
+  release
